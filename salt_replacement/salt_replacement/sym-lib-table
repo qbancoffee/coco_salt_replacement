@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name coco_rip)(type Legacy)(uri ${KIPRJMOD}/coco_rip.lib)(options "")(descr ""))
+)
