@@ -33,8 +33,11 @@ U 1 1 609BC303
 P 6550 1750
 F 0 "C1" H 6642 1796 50  0000 L CNN
 F 1 ".27uF" H 6642 1705 50  0000 L CNN
-F 2 "" H 6550 1750 50  0001 C CNN
-F 3 "~" H 6550 1750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 6550 1750 50  0001 C CNN
+F 3 "http://datasheets.avx.com/X7RDielectric.pdf" H 6550 1750 50  0001 C CNN
+F 4 "Digikey" H 6550 1750 50  0001 C CNN "Vendor"
+F 5 "478-1561-1-ND" H 6550 1750 50  0001 C CNN "Vendor part#"
+F 6 "12065C274KAT2A" H 6550 1750 50  0001 C CNN "Manufacturer part#"
 	1    6550 1750
 	1    0    0    -1  
 $EndComp
@@ -44,8 +47,11 @@ U 1 1 609BC805
 P 7250 2500
 F 0 "C2" H 7158 2454 50  0000 R CNN
 F 1 "5000pF" H 7158 2545 50  0000 R CNN
-F 2 "" H 7250 2500 50  0001 C CNN
-F 3 "~" H 7250 2500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7250 2500 50  0001 C CNN
+F 3 "http://datasheets.avx.com/X7RDielectric.pdf" H 7250 2500 50  0001 C CNN
+F 4 "Digikey" H 7250 2500 50  0001 C CNN "Vendor"
+F 5 "478-10560-1-ND" H 7250 2500 50  0001 C CNN "Vendor part#"
+F 6 "08055C502KAT2A" H 7250 2500 50  0001 C CNN "Manufacturer part#"
 	1    7250 2500
 	-1   0    0    1   
 $EndComp
@@ -55,8 +61,11 @@ U 1 1 609BCA87
 P 2300 2650
 F 0 "C5" H 2050 2700 50  0000 L CNN
 F 1 "100uF" H 1950 2600 50  0000 L CNN
-F 2 "" H 2300 2650 50  0001 C CNN
-F 3 "~" H 2300 2650 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder" H 2300 2650 50  0001 C CNN
+F 3 "https://datasheets.avx.com/TPS.pdf" H 2300 2650 50  0001 C CNN
+F 4 "digikey" H 2300 2650 50  0001 C CNN "Vendor"
+F 5 "478-9137-1-ND" H 2300 2650 50  0001 C CNN "Vendor part#"
+F 6 "TPSD107K010S0080" H 2300 2650 50  0001 C CNN "manufacturer part#"
 	1    2300 2650
 	1    0    0    -1  
 $EndComp
@@ -66,8 +75,11 @@ U 1 1 609E002C
 P 8300 2050
 F 0 "L1" V 8485 2050 50  0000 C CNN
 F 1 "10uH" V 8394 2050 50  0000 C CNN
-F 2 "" H 8300 2050 50  0001 C CNN
-F 3 "~" H 8300 2050 50  0001 C CNN
+F 2 "salt_replacement:L_Sumida_CDMC6D28_7.25x6.5mm" H 8300 2050 50  0001 C CNN
+F 3 "https://www.bourns.com/docs/Product-Datasheets/SRP6540.pdf" H 8300 2050 50  0001 C CNN
+F 4 "Digikey" V 8300 2050 50  0001 C CNN "Vendor"
+F 5 "SRP6540-100MCT-ND" V 8300 2050 50  0001 C CNN "Vendor part#"
+F 6 "SRP6540-100M" V 8300 2050 50  0001 C CNN "Manufacturer part#"
 	1    8300 2050
 	0    -1   -1   0   
 $EndComp
@@ -155,8 +167,11 @@ U 1 1 60A44EDC
 P 8300 1500
 F 0 "D1" H 8300 1717 50  0000 C CNN
 F 1 "CMDSH-3" H 8300 1626 50  0000 C CNN
-F 2 "" H 8300 1500 50  0001 C CNN
-F 3 "~" H 8300 1500 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 8300 1500 50  0001 C CNN
+F 3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=CMDSH-3.PDF" H 8300 1500 50  0001 C CNN
+F 4 "Digikey" H 8300 1500 50  0001 C CNN "Vendor"
+F 5 "1514-CMDSH-3TRPBFREECT-ND" H 8300 1500 50  0001 C CNN "Vendor part#"
+F 6 "CMDSH-3 TR PBFREE" H 8300 1500 50  0001 C CNN "Manufacturer part#"
 	1    8300 1500
 	1    0    0    -1  
 $EndComp
@@ -165,9 +180,12 @@ L Device:D_Schottky D2
 U 1 1 60A46D0D
 P 7850 2500
 F 0 "D2" V 7804 2580 50  0000 L CNN
-F 1 "MBRS340" V 7895 2580 50  0000 L CNN
-F 2 "" H 7850 2500 50  0001 C CNN
-F 3 "~" H 7850 2500 50  0001 C CNN
+F 1 "B340LB-13-F" V 7895 2580 50  0000 L CNN
+F 2 "Diode_SMD:D_SMC" H 7850 2500 50  0001 C CNN
+F 3 "https://www.diodes.com/assets/Datasheets/ds30240.pdf" H 7850 2500 50  0001 C CNN
+F 4 "digikey" V 7850 2500 50  0001 C CNN "Vendor"
+F 5 "B340LB-FDICT-ND" V 7850 2500 50  0001 C CNN "Vendor part#"
+F 6 "B340LB-13-F" V 7850 2500 50  0001 C CNN "Manufacturer part#"
 	1    7850 2500
 	0    1    1    0   
 $EndComp
@@ -250,8 +268,11 @@ U 1 1 60A563E9
 P 7250 2800
 F 0 "R1" H 7318 2846 50  0000 L CNN
 F 1 "10K" H 7318 2755 50  0000 L CNN
-F 2 "" H 7250 2800 50  0001 C CNN
-F 3 "~" H 7250 2800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 7250 2800 50  0001 C CNN
+F 3 "http://www.koaspeer.com/pdfs/RK73B.pdf" H 7250 2800 50  0001 C CNN
+F 4 "digikey" H 7250 2800 50  0001 C CNN "Vendor"
+F 5 "2019-RK73B2ATTD103JCT-ND" H 7250 2800 50  0001 C CNN "Vendor part#"
+F 6 "RK73B2ATTD103J" H 7250 2800 50  0001 C CNN "Manufacturer part#"
 	1    7250 2800
 	1    0    0    -1  
 $EndComp
@@ -264,36 +285,14 @@ Wire Wire Line
 Wire Wire Line
 	7600 3050 7600 2950
 $Comp
-L Device:C_Small C3
-U 1 1 60A7B77C
-P 9550 2550
-F 0 "C3" H 9300 2600 50  0000 L CNN
-F 1 "10uF" H 9200 2500 50  0000 L CNN
-F 2 "" H 9550 2550 50  0001 C CNN
-F 3 "~" H 9550 2550 50  0001 C CNN
-	1    9550 2550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C4
-U 1 1 60A7CE5B
-P 9850 2550
-F 0 "C4" H 10000 2600 50  0000 L CNN
-F 1 "10uF" H 9950 2500 50  0000 L CNN
-F 2 "" H 9850 2550 50  0001 C CNN
-F 3 "~" H 9850 2550 50  0001 C CNN
-	1    9850 2550
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR04
 U 1 1 60A7DF76
-P 9700 2850
-F 0 "#PWR04" H 9700 2600 50  0001 C CNN
-F 1 "GND" H 9705 2677 50  0000 C CNN
-F 2 "" H 9700 2850 50  0001 C CNN
-F 3 "" H 9700 2850 50  0001 C CNN
-	1    9700 2850
+P 9700 2650
+F 0 "#PWR04" H 9700 2400 50  0001 C CNN
+F 1 "GND" H 9705 2477 50  0000 C CNN
+F 2 "" H 9700 2650 50  0001 C CNN
+F 3 "" H 9700 2650 50  0001 C CNN
+	1    9700 2650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -308,35 +307,18 @@ F 3 "" H 9700 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9550 2450 9550 2350
-Wire Wire Line
-	9550 2350 9700 2350
-Wire Wire Line
-	9700 2350 9700 2250
-Wire Wire Line
-	9850 2450 9850 2350
-Wire Wire Line
-	9850 2350 9700 2350
-Connection ~ 9700 2350
-Wire Wire Line
-	9550 2650 9550 2750
-Wire Wire Line
-	9550 2750 9700 2750
-Wire Wire Line
-	9700 2750 9700 2850
-Wire Wire Line
-	9850 2650 9850 2750
-Wire Wire Line
-	9850 2750 9700 2750
-Connection ~ 9700 2750
+	9700 2550 9700 2650
 $Comp
 L Device:CP_Small C6
 U 1 1 60A84FB8
 P 1900 5100
 F 0 "C6" H 1700 5150 50  0000 L CNN
-F 1 "1uF" H 1650 5050 50  0000 L CNN
-F 2 "" H 1900 5100 50  0001 C CNN
-F 3 "~" H 1900 5100 50  0001 C CNN
+F 1 ".1uF" H 1650 5050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 1900 5100 50  0001 C CNN
+F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf" H 1900 5100 50  0001 C CNN
+F 4 "digikey" H 1900 5100 50  0001 C CNN "Vendor"
+F 5 "311-1344-1-ND" H 1900 5100 50  0001 C CNN "Vendor part#"
+F 6 "CC0603KRX7R9BB104" H 1900 5100 50  0001 C CNN "Manufacturer part#"
 	1    1900 5100
 	1    0    0    -1  
 $EndComp
@@ -345,9 +327,12 @@ L Device:CP_Small C7
 U 1 1 60A8C6F1
 P 4150 5100
 F 0 "C7" H 4300 5200 50  0000 L CNN
-F 1 "1uF" H 4300 5050 50  0000 L CNN
-F 2 "" H 4150 5100 50  0001 C CNN
-F 3 "~" H 4150 5100 50  0001 C CNN
+F 1 ".47uF" H 4300 5050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 4150 5100 50  0001 C CNN
+F 3 "https://api.kemet.com/component-edge/download/datasheet/C0603C474K4RACTU.pdf" H 4150 5100 50  0001 C CNN
+F 4 "digikey" H 4150 5100 50  0001 C CNN "Vendor"
+F 5 "399-4922-1-ND" H 4150 5100 50  0001 C CNN "Vendor part#"
+F 6 "C0603C474K4RACTU" H 4150 5100 50  0001 C CNN "Manufacturer part#"
 	1    4150 5100
 	1    0    0    -1  
 $EndComp
@@ -356,9 +341,12 @@ L Device:CP_Small C9
 U 1 1 60A8CDD6
 P 4000 5750
 F 0 "C9" V 3900 5700 50  0000 L CNN
-F 1 "1uF" V 4050 5800 50  0000 L CNN
-F 2 "" H 4000 5750 50  0001 C CNN
-F 3 "~" H 4000 5750 50  0001 C CNN
+F 1 ".47uF" V 4050 5800 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 4000 5750 50  0001 C CNN
+F 3 "https://api.kemet.com/component-edge/download/datasheet/C0603C474K4RACTU.pdf" H 4000 5750 50  0001 C CNN
+F 4 "digikey" V 4000 5750 50  0001 C CNN "Vendor"
+F 5 "399-4922-1-ND" V 4000 5750 50  0001 C CNN "Vendor part#"
+F 6 "C0603C474K4RACTU" V 4000 5750 50  0001 C CNN "Manufacturer part#"
 	1    4000 5750
 	0    1    1    0   
 $EndComp
@@ -367,9 +355,12 @@ L Device:CP_Small C8
 U 1 1 60A8D068
 P 4000 5450
 F 0 "C8" V 4100 5400 50  0000 L CNN
-F 1 "1uF" V 3950 5250 50  0000 L CNN
-F 2 "" H 4000 5450 50  0001 C CNN
-F 3 "~" H 4000 5450 50  0001 C CNN
+F 1 ".47uF" V 3950 5200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 4000 5450 50  0001 C CNN
+F 3 "https://api.kemet.com/component-edge/download/datasheet/C0603C474K4RACTU.pdf" H 4000 5450 50  0001 C CNN
+F 4 "digikey" V 4000 5450 50  0001 C CNN "Vendor"
+F 5 "399-4922-1-ND" V 4000 5450 50  0001 C CNN "Vendor part#"
+F 6 "C0603C474K4RACTU" V 4000 5450 50  0001 C CNN "Manufacturer part#"
 	1    4000 5450
 	0    -1   -1   0   
 $EndComp
@@ -455,7 +446,7 @@ U 1 1 60AB41C0
 P 7400 5600
 F 0 "J1" H 7450 6117 50  0000 C CNN
 F 1 "SALT chip package pins" H 7450 6026 50  0000 C CNN
-F 2 "" H 7400 5600 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm_Socket" H 7400 5600 50  0001 C CNN
 F 3 "~" H 7400 5600 50  0001 C CNN
 	1    7400 5600
 	1    0    0    -1  
@@ -556,88 +547,10 @@ Wire Wire Line
 	7200 6000 6650 6000
 Wire Wire Line
 	6650 6000 6650 6250
-NoConn ~ 7700 6000
-NoConn ~ 7700 5900
 NoConn ~ 7700 5800
 NoConn ~ 7200 5900
 NoConn ~ 3800 5950
 NoConn ~ 2200 5950
-Text Notes 8050 6400 0    50   ~ 0
-Cassette circuitry will be implemented\nlater, possibly to make smoke.
-Wire Notes Line
-	7950 6150 9650 6150
-Wire Notes Line
-	9650 6150 9650 6500
-Wire Notes Line
-	9650 6500 7950 6500
-Wire Notes Line
-	7950 6500 7950 6150
-$Comp
-L Device:C_Small C10
-U 1 1 60B35E74
-P 5350 7200
-F 0 "C10" H 5100 7250 50  0000 L CNN
-F 1 "10uF" H 5000 7150 50  0000 L CNN
-F 2 "" H 5350 7200 50  0001 C CNN
-F 3 "~" H 5350 7200 50  0001 C CNN
-	1    5350 7200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C11
-U 1 1 60B35E7A
-P 5650 7200
-F 0 "C11" H 5800 7250 50  0000 L CNN
-F 1 "10uF" H 5750 7150 50  0000 L CNN
-F 2 "" H 5650 7200 50  0001 C CNN
-F 3 "~" H 5650 7200 50  0001 C CNN
-	1    5650 7200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR015
-U 1 1 60B35E80
-P 5500 7500
-F 0 "#PWR015" H 5500 7250 50  0001 C CNN
-F 1 "GND" H 5505 7327 50  0000 C CNN
-F 2 "" H 5500 7500 50  0001 C CNN
-F 3 "" H 5500 7500 50  0001 C CNN
-	1    5500 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR013
-U 1 1 60B35E86
-P 5500 6900
-F 0 "#PWR013" H 5500 6750 50  0001 C CNN
-F 1 "+5V" H 5515 7073 50  0000 C CNN
-F 2 "" H 5500 6900 50  0001 C CNN
-F 3 "" H 5500 6900 50  0001 C CNN
-	1    5500 6900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5350 7100 5350 7000
-Wire Wire Line
-	5350 7000 5500 7000
-Wire Wire Line
-	5500 7000 5500 6900
-Wire Wire Line
-	5650 7100 5650 7000
-Wire Wire Line
-	5650 7000 5500 7000
-Connection ~ 5500 7000
-Wire Wire Line
-	5350 7300 5350 7400
-Wire Wire Line
-	5350 7400 5500 7400
-Wire Wire Line
-	5500 7400 5500 7500
-Wire Wire Line
-	5650 7300 5650 7400
-Wire Wire Line
-	5650 7400 5500 7400
-Connection ~ 5500 7400
 $Comp
 L power:PWR_FLAG #FLG0101
 U 1 1 60B3C654
@@ -669,4 +582,94 @@ Wire Wire Line
 	2600 2750 2900 2750
 Wire Wire Line
 	2900 2750 2900 2700
+$Comp
+L Device:C_Small C4
+U 1 1 60A7CE5B
+P 9700 2450
+F 0 "C4" H 9850 2500 50  0000 L CNN
+F 1 "10uF" H 9800 2400 50  0000 L CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 9700 2450 50  0001 C CNN
+F 3 "https://api.kemet.com/component-edge/download/datasheet/T491A106K010AT.pdf" H 9700 2450 50  0001 C CNN
+F 4 "digikey" H 9700 2450 50  0001 C CNN "Vendor"
+F 5 "399-3684-1-ND" H 9700 2450 50  0001 C CNN "Vendor part#"
+F 6 "T491A106K010AT" H 9700 2450 50  0001 C CNN "Manufacturer part#"
+	1    9700 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9700 2350 9700 2250
+$Comp
+L Transistor_FET:FDG1024NZ Q1
+U 2 1 60951ED0
+P 9300 4750
+F 0 "Q1" V 9549 4750 50  0000 C CNN
+F 1 "FDG1024NZ" V 9640 4750 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 9500 4675 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf" H 9300 4750 50  0001 L CNN
+	2    9300 4750
+	0    1    1    0   
+$EndComp
+NoConn ~ 9300 4550
+NoConn ~ 9500 4850
+NoConn ~ 9100 4850
+Wire Wire Line
+	8500 6000 8500 6050
+$Comp
+L power:GND #PWR0101
+U 1 1 6097E8E1
+P 8700 6650
+F 0 "#PWR0101" H 8700 6400 50  0001 C CNN
+F 1 "GND" H 8705 6477 50  0000 C CNN
+F 2 "" H 8700 6650 50  0001 C CNN
+F 3 "" H 8700 6650 50  0001 C CNN
+	1    8700 6650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 6000 8500 6000
+Wire Wire Line
+	7700 5900 8900 5900
+Wire Wire Line
+	8900 5900 8900 6250
+Wire Wire Line
+	8900 6250 8800 6250
+$Comp
+L Device:R_Small_US R2
+U 1 1 609882F8
+P 8900 6450
+F 0 "R2" H 8968 6496 50  0000 L CNN
+F 1 "10K" H 8968 6405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 8900 6450 50  0001 C CNN
+F 3 "http://www.koaspeer.com/pdfs/RK73B.pdf" H 8900 6450 50  0001 C CNN
+F 4 "digikey" H 8900 6450 50  0001 C CNN "Vendor"
+F 5 "2019-RK73B2ATTD103JCT-ND" H 8900 6450 50  0001 C CNN "Vendor part#"
+F 6 "RK73B2ATTD103J" H 8900 6450 50  0001 C CNN "Manufacturer part#"
+	1    8900 6450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 6350 8900 6250
+Connection ~ 8900 6250
+$Comp
+L Transistor_FET:FDG1024NZ Q1
+U 1 1 6094E330
+P 8600 6250
+F 0 "Q1" H 8805 6296 50  0000 L CNN
+F 1 "FDG1024NZ" H 8805 6205 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 8800 6175 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf" H 8600 6250 50  0001 L CNN
+	1    8600 6250
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 6550 8900 6600
+Wire Wire Line
+	8900 6600 8700 6600
+Wire Wire Line
+	8700 6600 8700 6650
+Wire Wire Line
+	8500 6450 8500 6600
+Wire Wire Line
+	8500 6600 8700 6600
+Connection ~ 8700 6600
 $EndSCHEMATC
