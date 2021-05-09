@@ -1,0 +1,15 @@
+Qty,Manufacturer part#,Vendor part#,Vendor,Reference(s),Value,LibPart,Footprint,Datasheet
+1,C1005X7R1H104KT000F,C361198,LCSC,C6,.1uF,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,https://datasheet.lcsc.com/szlcsc/1912111437_TDK-C1005X7R1H104KT000F_C361198.pdf
+3,CL10B474KA8NNNC,C1623,LCSC,"C7, C8, C9",.47uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10B474KA8NNNC_C1623.pdf
+1,SS54B,C32513,LCSC,D1,5A 40V,Device:D_Schottky,Diode_SMD:D_SMB,https://datasheet.lcsc.com/lcsc/2011241905_MDD-Microdiode-Electronics-SS54B_C32513.pdf
+1,1N4148WT,C414017,LCSC,D2,1N4148,Diode:1N4148,Diode_SMD:D_SOD-523,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+1,DNI,DNI,DNI,J1,SALT chip package pins,Connector_Generic:Conn_02x08_Counter_Clockwise,Package_DIP:DIP-16_W7.62mm_Socket,DNI
+1,MHCI06030-330M-R8,C329385,LSCSC,L1,33uH,Device:L_Small,Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm,https://datasheet.lcsc.com/lcsc/1912111437_Chilisin-Elec-MHCI06030-330M-R8_C329385.pdf
+1,MMBT9014C,C90157,LCSC,Q1,MMBT9014C,Transistor_BJT:BC818,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pub/Collateral/BC818-D.pdf
+2,0402WGF1003TCE,C25741,LCSC,"R1, R3",100K,Device:R_Small_US,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/lcsc/1810111814_UNI-ROYAL-Uniroyal-Elec-0402WGF1003TCE_C25741.pdf
+2,0402WGF1002TCE,C25744 , LCSC,"R2, R8",10K,Device:R_Small_US,Resistor_SMD:R_0402_1005Metric, https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf
+3,0402WGF5101TCE,C25905,LCSC,"R4, R5, R6",5.1K,Device:R_Small_US,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf
+1,0402WGJ0206TCE,C75135,LCSC,R7,20M,Device:R_Small_US,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGJ0206TCE_C75135.pdf
+1,LM2596SX-5.0/NOPB,C10002,LCSC,U1,LM2596S-5,Regulator_Switching:LM2596S-5,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2596.pdf
+1,MAX3232EUE+T,C19767, LCSC,U2,MAX3232,Interface_UART:MAX3232,Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm,http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax3232
+1,LM393PT,C160466,LCSC,U3,LM393,Comparator:LM393,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,http://www.ti.com/lit/ds/symlink/lm393.pdf
