@@ -1,1 +1,1 @@
-#This circuit is a drop in replacement for the custom SALT chip on the CoCo's
+Drop in replacement board for the custom SALT chip on the CoCo's
