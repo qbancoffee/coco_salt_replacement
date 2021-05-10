@@ -19,3 +19,9 @@ I think I can design a replacement board that does all or most of what the SALT 
 <br>
 <br>
 ![Top view](images/salt_side.png?raw=true "Top view")
+<br>
+CoCo 2 with SALT chip top view rendering
+![CoCo2 with SALT chip top view](images/coco_salt_top_view.png?raw=true "CoCo2 with SALT chip top view")
+<br>
+CoCo 2 with SALT chip side view rendering
+![CoCo2 with SALT chip side view](images/coco_salt_side_view.png?raw=true "CoCo2 with SALT chip side view")
