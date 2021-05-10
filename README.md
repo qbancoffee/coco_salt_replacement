@@ -5,9 +5,12 @@ I need one and I can't seem to find a reasonably priced one.
 
 I think I can design a replacement board that does all or most of what the SALT chip did.
 
+I designed it using available parts from JLCPCB to reduce assembly time and to bring down the cost.
+I just ordered it on 5/9/2021 and I'm planning on getting and testing it in under 2 weeks.
+
 ## Goals
-- [ ] Power regulation with a switching regulator.
-- [ ] RS232 capabilities.
+- [ ] Power regulation with a switching regulator instead of a linear regulator.
+- [ ] RS232 interface.
 - [ ] Zero crossing detector to read cassette data.
 - [ ] Cassette relay control.
 
