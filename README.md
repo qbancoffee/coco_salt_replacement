@@ -11,6 +11,11 @@ I think I can design a replacement board that does all or most of what the SALT 
 - [ ] Zero crossing detector to read cassette data.
 - [ ] Cassette relay control.
 
-## Circuit
+## Layout
+![Layout](images/salt_layout.png?raw=true "Component layout")
 
 ## 3D rendering
+![Top view](images/salt_top.png?raw=true "Top view")
+<br>
+<br>
+![Top view](images/salt_side.png?raw=true "Top view")
