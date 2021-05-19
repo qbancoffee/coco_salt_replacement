@@ -20,6 +20,7 @@ All goals were met!!!<br>
 ## Layout
 ![Layout](images/salt_layout.png?raw=true "Component layout")
 
+
 ## 3D rendering and pictures of it installed
 ![Top view](images/salt_top.png?raw=true "Top view")
 <br>
@@ -33,3 +34,6 @@ CoCo 2 with SALT chip top view rendering
 CoCo 2 with SALT chip side view rendering
 ![CoCo2 with SALT chip side view](images/coco_salt_side_view.png?raw=true "CoCo2 with SALT chip side view")
 ![CoCo2 with PEPPER board side view pic](images/pepper_installed_side.jpg?raw=true "CoCo2 with PEPPER board side view pic")
+
+## SALT and PEPPER
+![SALT and PEPPER](images/salt_and_pepper.jpg?raw=true "SALT and PEPPER")
