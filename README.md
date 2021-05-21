@@ -64,8 +64,10 @@ To order the components you'll need a Bill Of Materials or a BOM. I've included 
 <BR>
 - [View BOM for the PEPPER board](https://github.com/qbancoffee/coco_salt_replacement/blob/master/salt_replacement/salt_replacement/gerber/BOM.csv)
 
-
 The BOM includes LCSC part numbers so you can order them from JLCPCB, manufacturer part numbers so can search for the parts sold by other vendors, and other nice pieces of information to help you along.
+
+To assemble the board JLCPCB will need to know the part locations and orientations, this information is in the CPL file.
+- [View the CPL file](https://github.com/qbancoffee/coco_salt_replacement/blob/master/salt_replacement/salt_replacement/gerber/salt_replacement-all-pos.csv)  
 
 - Go to jlcpcb and create an account if you don't have one.
 - Click on "Quote Now" and then click on "Add Gerber File"
