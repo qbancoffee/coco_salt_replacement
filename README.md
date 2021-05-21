@@ -1,7 +1,7 @@
 # Drop in replacement board for the custom SALT chip on the CoCo's
 
 - [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)
-- [How to order from JLCPCB](Ordering-the-board)
+- [How to order from JLCPCB](#Ordering-the-board)
 
 This board replaces the functionality of the SALT chip in the CoCo (CoCo 2 in my case). 
 The SALT chip (Supply and Level Translator) is responsible for supply regulation, RS-232
