@@ -68,13 +68,17 @@ To order the components you'll need a Bill Of Materials or a BOM. I've included 
 The BOM includes LCSC part numbers so you can order them from JLCPCB, manufacturer part numbers so can search for the parts sold by other vendors, and other nice pieces of information to help you along.
 
 - Go to jlcpcb and create an account if you don't have one.
-- Click on Quote Now and then on Add Gerber File
-- Select pepper_gerber.zip
+- Click on "Quote Now" and then click on "Add Gerber File"
+- Select "pepper_gerber.zip"
 - Scroll down and select "Free SMT Assembly for your PCB order"
 - Select "Assemble Top side" and agree to the terms and conditions.
 - Click on "Add BOM" and select "BOM.csv"
 - Click on "Add CPL file" and select "salt_replacement-all-pos.csv"
-- Click Next
+- Click "Next" and go over the components and pricing.
+- Click "Next" or "Save to Cart".
+  
+  If you like the price, order it and you should receive a mostly assembled board.
+  
 
 
 
