@@ -41,6 +41,9 @@ CoCo 2 with SALT chip side view rendering
 
 
 ## Ordering the board
+First Thing to do is clone this repository or download the latest release.
+- [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)<br>
+All the files you'll need are in the gerber folder.
 
 Many PCB manufacturers provide proprietary EDA software with nice and helpful features to help the user decrease the time and difficulty when designing a PCB. Unfortunately sometimes these programs will only allow you to order from that specific manufacturer. This is good for the manufacturer because it increases the odds that the person will order from them again because of the amount of time invested in learning to use that specific EDA program.
 
@@ -81,6 +84,17 @@ To assemble the board JLCPCB will need to know the part locations and orientatio
 - Click "Next" or "Save to Cart".
   
   If you like the price, order it and you should receive a mostly assembled board.
+  
+Beacuse they are through hole components you'll have to solder the pin headers yourself. However, I just found out that JLCPCB offers hand soldering services now so you may want to look into that.....
+  
+  If you don't have 2.54 mm pitch breakaway pin headers laying around you can order from many places.
+  - Amazon
+  - Digikey
+  - Mouser
+  
+  Here is a set from Adafruit<br>
+  [Break away male pin headers .1 inch (2.54mm) pitch](https://www.adafruit.com/product/392)
+  
   
 
 
