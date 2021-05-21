@@ -39,7 +39,7 @@ CoCo 2 with SALT chip side view rendering
 ![SALT and PEPPER](images/salt_and_pepper.jpg?raw=true "SALT and PEPPER")
 
 
-## Ordering the boards and components.
+## Ordering the board.
 
 Many PCB manufacturers provide proprietary EDA software with nice and helpful features to help the user decrease the time and difficulty when designing a PCB. Unfortunately sometimes these programs will only allow you to order from that specific manufacturer. This is good for the manufacturer because it increases the odds that the person will order from them again because of the amount of time invested in learning to use that specific EDA program.
 
