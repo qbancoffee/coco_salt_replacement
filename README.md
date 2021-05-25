@@ -1,12 +1,13 @@
 # Drop in replacement board for the custom SALT chip on the CoCo's
 
-I am attempting to make a circuit to replace the Supply and Level Translator chip (SALT) that my CoCo 2 uses.
-I need one and I can't seem to find a reasonably priced one.
+- [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)
+- [How to order from JLCPCB](#Ordering-the-board)
 
-I think I can design a replacement board that does all or most of what the SALT chip did.
+This board replaces the functionality of the SALT chip in the CoCo (CoCo 2 in my case). 
+The SALT chip (Supply and Level Translator) is responsible for supply regulation, RS-232
+interface, level translation, cassette read operations, and driving the cassette relay.
 
 I designed it using available parts from JLCPCB to reduce assembly time and to bring down the cost.
-I just ordered it on 5/9/2021 and I'm planning on getting and testing it in under 2 weeks.
 
 ## Goals
 - [x] Power regulation with a switching regulator instead of a linear regulator.
@@ -39,7 +40,10 @@ CoCo 2 with SALT chip side view rendering
 ![SALT and PEPPER](images/salt_and_pepper.jpg?raw=true "SALT and PEPPER")
 
 
-## Ordering the board.
+## Ordering the board
+First Thing to do is clone this repository or download the latest release.
+- [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)<br>
+All the files you'll need are in the gerber folder.
 
 Many PCB manufacturers provide proprietary EDA software with nice and helpful features to help the user decrease the time and difficulty when designing a PCB. Unfortunately sometimes these programs will only allow you to order from that specific manufacturer. This is good for the manufacturer because it increases the odds that the person will order from them again because of the amount of time invested in learning to use that specific EDA program.
 
@@ -80,6 +84,17 @@ To assemble the board JLCPCB will need to know the part locations and orientatio
 - Click "Next" or "Save to Cart".
   
   If you like the price, order it and you should receive a mostly assembled board.
+  
+Beacuse they are through hole components you'll have to solder the pin headers yourself. However, I just found out that JLCPCB offers hand soldering services now so you may want to look into that.....
+  
+  If you don't have 2.54 mm pitch breakaway pin headers laying around you can order from many places.
+  - Amazon
+  - Digikey
+  - Mouser
+  
+  Here is a set from Adafruit<br>
+  [Break away male pin headers .1 inch (2.54mm) pitch](https://www.adafruit.com/product/392)
+  
   
 
 
