@@ -42,7 +42,10 @@ P 2150 3850
 F 0 "J1" H 2200 4367 50  0000 C CNN
 F 1 "SALT chip package pins" H 2200 4276 50  0000 C CNN
 F 2 "Package_DIP:DIP-16_W7.62mm_Socket" H 2150 3850 50  0001 C CNN
-F 3 "~" H 2150 3850 50  0001 C CNN
+F 3 "DNI" H 2150 3850 50  0001 C CNN
+F 4 "DNI" H 2150 3850 50  0001 C CNN "Vendor"
+F 5 "DNI" H 2150 3850 50  0001 C CNN "Vendor part#"
+F 6 "DNI" H 2150 3850 50  0001 C CNN "Manufacturer part#"
 	1    2150 3850
 	1    0    0    -1  
 $EndComp

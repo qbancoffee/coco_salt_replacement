@@ -234,8 +234,8 @@ F 1 "33uH" V 4544 1550 50  0000 C CNN
 F 2 "Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm" H 4450 1550 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1912111437_Chilisin-Elec-MHCI06030-330M-R8_C329385.pdf" H 4450 1550 50  0001 C CNN
 F 4 "LSCSC" V 4450 1550 50  0001 C CNN "Vendor"
-F 5 "C329385" V 4450 1550 50  0001 C CNN "Vendor part#"
-F 6 "MHCI06030-330M-R8" V 4450 1550 50  0001 C CNN "Manufacturer part#"
+F 5 "C718398" V 4450 1550 50  0001 C CNN "Vendor part#"
+F 6 "YSPI0740-330M" V 4450 1550 50  0001 C CNN "Manufacturer part#"
 	1    4450 1550
 	0    -1   -1   0   
 $EndComp
