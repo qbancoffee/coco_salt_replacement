@@ -98,7 +98,7 @@ Beacuse they are through hole components you'll have to solder the pin headers y
   [Break away male pin headers .1 inch (2.54mm) pitch](https://www.adafruit.com/product/392)
   
   ## Peppers In The Wild
-  https://toobnix.org/w/trVFnngNR2Q8xo4Xgh9rEd
+  [Junkman is testing his pepper board](https://toobnix.org/w/trVFnngNR2Q8xo4Xgh9rEd)
 
 
 
