@@ -3,6 +3,7 @@
 - [View PDF version of the schematic](pepper_schematic.pdf)
 - [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)
 - [How to order from JLCPCB](#Ordering-the-board)
+- [Peppers in the wild](#Peppers-In-The-Wild)
 
 This board replaces the functionality of the SALT chip in the CoCo (CoCo 2 in my case). 
 The SALT chip (Supply and Level Translator) is responsible for supply regulation, RS-232
@@ -96,7 +97,8 @@ Beacuse they are through hole components you'll have to solder the pin headers y
   Here is a set from Adafruit<br>
   [Break away male pin headers .1 inch (2.54mm) pitch](https://www.adafruit.com/product/392)
   
-  
+  ## Peppers In The Wild
+  https://toobnix.org/w/trVFnngNR2Q8xo4Xgh9rEd
 
 
 
