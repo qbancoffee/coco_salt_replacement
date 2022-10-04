@@ -94,9 +94,10 @@ Beacuse they are through hole components you'll have to solder the pin headers y
   - Digikey
   - Mouser
   
-  Here is a set from Adafruit<br>
-  [Break away male pin headers .1 inch (2.54mm) pitch](https://www.adafruit.com/product/392)
-  
+  Here is a machine pine version which works better for the different type of sockets out there.<br>
+  https://www.ebay.com/itm/155119535147<br>
+  Thanks for the suggestion RETRO Innovations!
+    
   ## Peppers In The Wild
   [Junkman testing his pepper board](https://toobnix.org/w/trVFnngNR2Q8xo4Xgh9rEd)
 
