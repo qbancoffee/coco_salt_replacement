@@ -1,0 +1,15 @@
+Reference, Quantity, Value, Footprint, Datasheet, Manufacturer part#, Vendor, Vendor part#
+C6 ,1,.1uF,Capacitor_SMD:C_0402_1005Metric,https://datasheet.lcsc.com/szlcsc/1912111437_TDK-C1005X7R1H104KT000F_C361198.pdf,C1005X7R1H104KT000F,JLCPCB,C1525
+C9 C7 C8 ,3,.47uF,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10B474KA8NNNC_C1623.pdf,CL10B474KA8NNNC,LCSC,C1623
+D1 ,1,5A 40V,Diode_SMD:D_SMA,https://datasheet.lcsc.com/lcsc/2011241905_MDD-Microdiode-Electronics-SS54B_C32513.pdf,SS54,JLCPCB,C22452
+D2 ,1,1N4148WS,Diode_SMD:D_SOD-323,https://datasheet.lcsc.com/lcsc/1810101110_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--1N4148WS_C2128.pdf,1N4148WS,JLCPCB,C2128
+J1 ,1,SALT chip package pins,Package_DIP:DIP-16_W7.62mm_Socket,DNI,DNI,DNI,DNI
+L1 ,1,33uH,Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm,https://datasheet.lcsc.com/lcsc/1912111437_Chilisin-Elec-MHCI06030-330M-R8_C329385.pdf,YSPI0740-330M,LSCSC,C718398
+Q1 ,1,MMBT9014C,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pub/Collateral/BC818-D.pdf,MMBT9014C,LCSC,C90157
+R1 R3 ,2,100K,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/lcsc/1810111814_UNI-ROYAL-Uniroyal-Elec-0402WGF1003TCE_C25741.pdf,0402WGF1003TCE,LCSC,C25741
+R2 R8 ,2,10K,Resistor_SMD:R_0402_1005Metric, https://datasheet.lcsc.com/lcsc/1809301717_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf,0402WGF1002TCE, LCSC,C25744 
+R6 R5 R4 ,3,5.1K,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf,0402WGF5101TCE,LCSC,C25905
+R7 ,1,20M,Resistor_SMD:R_0402_1005Metric,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGJ0206TCE_C75135.pdf,0402WGJ0206TCE,LCSC,C75135
+U1 ,1,LM2596S-5,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2596.pdf,LM2596SX-5.0/NOPB,LCSC,C10002
+U2 ,1,MAX3232,Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm,http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax3232,MAX3232EUE+T, LCSC,C19767
+U3 ,1,LM393,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm,https://datasheet.lcsc.com/lcsc/1809171611_onsemi-LM393DR2G_C7955.pdf,LM393DR2G,JLCPCB,C7955
