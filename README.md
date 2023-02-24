@@ -98,7 +98,7 @@ Beacuse they are through hole components you'll have to solder the pin headers y
   - Digikey
   - Mouser
   
-  Here is a machine pine version which works better for the different type of sockets out there.<br>
+  Here is a machine pin version which works better for the different type of sockets out there.<br>
   https://www.ebay.com/itm/155119535147<br>
   Thanks for the suggestion RETRO Innovations!
     
