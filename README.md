@@ -1,6 +1,6 @@
 # Drop in replacement board for the custom SALT chip on the CoCo's
 
-- [Installation instructions](https://github.com/qbancoffee/coco_salt_replacement/wiki/Installing-a-pepper-board.)
+- [Installation instructions](https://github.com/qbancoffee/coco_salt_replacement/wiki/Installing-a-pepper-board)
 - [View PDF version of the schematic](pepper_schematic.pdf)
 - [Download the latest release](https://github.com/qbancoffee/coco_salt_replacement/releases/latest)
 - [How to order from JLCPCB](#Ordering-the-board)
